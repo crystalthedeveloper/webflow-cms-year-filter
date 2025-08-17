@@ -54,7 +54,7 @@ Inside that scope:
 
 ### 1) Include the single JS file
 ```html
-<script src="webflow-cms-year-filter.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/crystalthedeveloper/webflow-cms-year-filter@v1.0.0/year-filter.js" defer></script>
 ```
 
 The script **auto-initializes** on page load with sensible defaults.
